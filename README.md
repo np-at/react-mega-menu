@@ -5,7 +5,6 @@
 
 ![favicon-32x32](./img/favicon.png) 
 [![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
 The component is used on Supply.com and styled as follows:
@@ -127,8 +126,6 @@ https://github.com/kamens/jQuery-menu-aim
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: 
-[npm-downloads]: 
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: 
+[npm-url]: https://www.npmjs.com/package/react-mega-menu
+[npm-downloads]: https://img.shields.io/npm/dm/react-mega-menu.svg?style=flat-square
 [supply]: https://www.supply.com/favicon.ico
