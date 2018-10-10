@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./src/",
+    "sourceMap": true,
+    "strict": true,
+    "module": "commonjs",
+    "skipLibCheck": true,
+    "noImplicitAny": true,
+    "target": "es5",
+    "jsx": "react"
+  },
+  "include": ["./src/**/*"],
+  "exclude": ["node_modules", "**/*.test.*"]
+}
