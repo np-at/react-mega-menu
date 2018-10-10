@@ -8,3 +8,4 @@ npm-debug.log*
 /src/index.d.ts
 /src/index.js
 /src/index.js.map
+.vscode/*
