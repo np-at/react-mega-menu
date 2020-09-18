@@ -19,10 +19,10 @@
     "prepublishOnly": "npm run tsc && npm run build && npm run moveDeclaration",
     "start": "nwb serve-react-demo",
     "typecheck": "tsc --noEmit",
-    "tslint":"tslint --project tsconfig.json",
+    "tslint": "tslint --project tsconfig.json",
     "test": "npm run typecheck && npm run tslint && npm run jest",
     "jest": "jest",
-    "jest:coverage":"jest --coverage"
+    "jest:coverage": "jest --coverage"
   },
   "dependencies": {
     "glamor": "^2.20.40"
@@ -40,8 +40,8 @@
     "enzyme-adapter-react-16": "^1.5.0",
     "istanbul-instrumenter-loader": "^3.0.1",
     "jest": "^23.6.0",
-    "nwb": "0.23.x",
-    "nwb-sass": "^0.9.0",
+    "nwb": "^0.25.2",
+    "nwb-sass": "^0.10.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "source-map-loader": "^0.2.4",
